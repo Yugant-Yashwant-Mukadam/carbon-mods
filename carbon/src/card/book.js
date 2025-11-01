@@ -8,7 +8,6 @@ import { useNavigate } from "react-router-dom";
 function Book(){
     const nav = useNavigate();
 
-       
     return(
         <foot>
             <div id="book">
