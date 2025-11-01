@@ -1,0 +1,78 @@
+#book
+{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    margin-top: 20px;
+}
+#bookimg
+{
+    width: 100vw;
+    height: auto;
+}
+#bookbtn
+{
+    position: absolute;
+    top:285%;
+    right:45%;
+    width: 200px;
+    height: 50px;
+    background-color:rgba(100, 98, 98, 0.274) ;
+    border: 5px solid white;
+    text-size-adjust: 1.5rem;
+}
+#bookid
+{
+    position: absolute;
+    top:-33%;
+    right:-309%;  
+    color: white; 
+}
+
+/* foot.js */
+footer
+{
+width: 100vw;
+height: max-content;
+background-color: #39372f;
+display: flex   ;
+    flex-direction: row;
+}
+#foot_card
+{
+    width: 400px;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    flex-direction: column;
+    padding: 10px 20px 10px 20px;
+
+}
+#foottext
+{
+    color: #bdc9d1;
+}
+#footimg
+{
+    width: 375px;
+    height: 200px;
+}
+#footh2
+{
+    color: #bdc9d1;
+}
+li
+{
+    color: #bdc9d1;
+}
+#smbox
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+#sm
+{
+    width: auto;
+    height: 50px;
+}

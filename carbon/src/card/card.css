@@ -1,0 +1,26 @@
+article
+{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+}
+#card
+{
+    max-width: 300px;
+    max-height: auto;
+    display: flex;
+    background-color: #77726e85;
+    justify-content: space-evenly   ;
+    flex-direction: column;
+    border-radius: 5%;
+    box-shadow: 5px 10px #989b9b8f;
+    margin: 0px 0px 30px 0px;
+    padding: 0px 0px 10px 0px;
+}
+#card1
+{
+    width: 300px;
+    border-radius: 5%;
+
+}
